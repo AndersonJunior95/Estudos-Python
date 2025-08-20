@@ -5,6 +5,7 @@ totalVendas = float(input("Digiteo o valor dos carros vendidos: "))
 salarioFixo = float(input("Digite o salário fixo: "))
 comissaoCarro = int(input("Digite a comissão fixa: "))
 
+
 comissaoTotal = comissaoCarro * carrosVendidos
 
 percentual = totalVendas * 0.05

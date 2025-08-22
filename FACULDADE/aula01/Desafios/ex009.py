@@ -1,4 +1,4 @@
-# Desafio proposto: Calcular a tabuada de um determinado número e apresentar o resultado no consol
+# Desafio proposto: Calcular a tabuada de um determinado número e apresentar o resultado no console
 
 numero = int(input("Digite um número para ver sua tabuada: "))
 

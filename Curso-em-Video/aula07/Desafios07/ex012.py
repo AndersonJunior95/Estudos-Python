@@ -1,4 +1,4 @@
-# Desafio proposto: Calcular desconto de um determinado produto
+# Desafio proposto: Faça um algoritmo que leia o preço de um produto e mostre o novo preço, com 5% de desconto
 
 produto = float(input("Digite o valor do Produto: "))
 
